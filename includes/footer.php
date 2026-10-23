@@ -6,7 +6,7 @@
     </a>
 
     <p class="bh-footer-tagline">
-        Good food, good mood, every day.
+        Good food, good mood, every day at BITEHUB!
     </p>
 
     <nav class="bh-footer-nav">
